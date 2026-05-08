@@ -141,4 +141,43 @@ I did this assignment myself. Didn't copy anyone's work.
 - Mongiwethu Ncube (221152725)
 
 ---
-
+//============================================================================
+// REFERENCES 
+//============================================================================
+// This assignment used the following sources for learning and reference:
+//
+// [1] Silberschatz, A., Galvin, P.B. and Gagne, G. (2018) Operating System 
+//     Concepts. 10th edn. Hoboken: Wiley.
+//     (Used for: Mutex, condition variable concepts, thread synchronization)
+//
+// [2] Williams, A. (2019) C++ Concurrency in Action: Practical Multithreading. 
+//     2nd edn. Shelter Island: Manning Publications.
+//     (Used for: std::thread, std::mutex, std::condition_variable implementation)
+//
+// [3] cppreference.com (2026) std::mutex - cppreference.com. Available at: 
+//     https://en.cppreference.com/w/cpp/thread/mutex (Accessed: 8 May 2026)
+//     (Used for: mutex lock_guard syntax)
+//
+// [4] cppreference.com (2026) std::condition_variable - cppreference.com. 
+//     Available at: https://en.cppreference.com/w/cpp/thread/condition_variable 
+//     (Accessed: 8 May 2026)
+//     (Used for: cv.wait() with predicate lambda)
+//
+// [5] Microsoft Docs (2026) 'SetConsoleTextAttribute function', Windows Console 
+//     Documentation. Available at: 
+//     https://docs.microsoft.com/en-us/windows/console/setconsoletextattribute 
+//     (Accessed: 8 May 2026)
+//     (Used for: Windows console color implementation)
+//
+// [6] Stroustrup, B. (2013) The C++ Programming Language. 4th edn. Boston: 
+//     Addison-Wesley.
+//     (Used for: Standard library usage, vector, accumulate)
+//
+// [7] Tanenbaum, A.S. and Bos, H. (2015) Modern Operating Systems. 4th edn. 
+//     Boston: Pearson.
+//     (Used for: Race conditions and deadlock prevention concepts)
+//
+// [8] GeeksforGeeks (2026) 'Multithreading in C++', GeeksforGeeks. Available at:
+//     https://www.geeksforgeeks.org/multithreading-in-cpp/ (Accessed: 8 May 2026)
+//     (Used for: Thread creation and joining examples)
+//============================================================================
