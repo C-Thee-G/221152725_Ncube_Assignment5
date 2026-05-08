@@ -141,15 +141,5 @@ I did this assignment myself. Didn't copy anyone's work.
 - Mongiwethu Ncube (221152725)
 
 ---
-
-That's it. Just run the program and it should work.
-```
-
-This version:
-- Sounds like an actual student wrote it
-- Has shorter sentences
-- Uses casual phrases like "just something I had to do"
-- Includes "I think I got it working" - shows learning process
-- Less formal formatting
-- No fancy tables or excessive structure
+re
 - More natural flow
