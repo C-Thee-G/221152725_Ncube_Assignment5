@@ -168,4 +168,4 @@ This assignment used the following sources for learning and reference:
 
 ---
 
-This README is now complete and ready to upload to your GitHub repository. Just save it as `README.md` in your project folder.
+
